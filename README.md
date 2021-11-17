@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# TNG2 React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ReactJS re-creation of the old TNG repository.
+
+The project is using Creative Commons Licenc. For further information please click on the badge. [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## v3.1.0
+
+* re-created the old TNG project with React 17
+* add dummy database for data handling
+* add optimization ?
+* add travis ci for automated integration
+* add bilinguality
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) version 17.0.2.
 
 ## Available Scripts
 
